@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "326186857426",
+    "firebase_url": "https://socialre-574fb.firebaseio.com",
+    "project_id": "socialre-574fb",
+    "storage_bucket": "socialre-574fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326186857426:android:8178b3f6d2c74a84758e0b",
+        "android_client_info": {
+          "package_name": "com.lecture1.SocialRe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326186857426-vcmbmbibcg92j63rqr0v8lfc19nup37t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCQDb3zsjCbFNz_mqY724nT25iNqgGYmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326186857426-vcmbmbibcg92j63rqr0v8lfc19nup37t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
